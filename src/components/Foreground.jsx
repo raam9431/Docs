@@ -38,3 +38,6 @@ function Foreground() {
 
 export default Foreground;
 export default Foreground;
+export default Foreground;
+export default Foreground;
+export default Foreground;
