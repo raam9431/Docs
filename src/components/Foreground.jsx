@@ -33,6 +33,8 @@ function Foreground() {
         <Card key={index} data={item} cardContainerRef={cardContainerRef} />
       ))}
     </div>
+    </div>
+    </div> 
   );
 }
 
